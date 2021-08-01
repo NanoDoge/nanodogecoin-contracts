@@ -1,5 +1,7 @@
 # Nano Dogecoin
 
+![Nano Dogecoin Logo](docs/img/logo.png)
+
 ## Token Deployment
 
 | Chain                | Binance Smart Chain                          |
