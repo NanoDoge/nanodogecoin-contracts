@@ -18,4 +18,4 @@ The original source code resides in the `src` directory.
 
 --
 
-LICENSE: MIT
+LICENSE: UNLICENSED
